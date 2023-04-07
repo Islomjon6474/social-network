@@ -10,7 +10,6 @@ function App() {
       <Header />
       <Nav />
       <Profile />
-      <Profile />
     </div>
   );
 }
